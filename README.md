@@ -1,4 +1,4 @@
-# Dancing With Your Thumbs
+# Piano Tiles
 
 A Verilog-based piano tiles–style rhythm game built for the DE1-SoC FPGA development board. Players tap corresponding keys as notes scroll down the screen in real time, with score and miss feedback, LED display effects, and a simple VGA visual interface.
 
