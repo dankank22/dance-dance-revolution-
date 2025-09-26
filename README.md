@@ -31,7 +31,7 @@ A Verilog-based piano tiles–style rhythm game built for the DE1-SoC FPGA devel
 - `decToHex.sv` — Converts score/miss values to 7-segment hex encoding
 - `clock_divider.sv` — Generates slower clock signals for game timing
 - `FPGAcontrols.png` — Pin and control reference diagram
-- `DANCING WITH YOUR THUMBS.pdf` — Project report with design explanation and testbench documentation
+- `Piano Tiles Documentation.pdf` — Project report with design explanation and testbench documentation
 
 
 ## Gameplay Rules
